@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/your-username/k8s-gitops-demo.git
+    repoURL: https://github.com/meerolla/k8s-gitops-demo.git
     targetRevision: HEAD
     path: helm/flask-chart
 

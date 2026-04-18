@@ -2,7 +2,7 @@ replicaCount: 2
 
 image:
   repository: mallesh453/flask-app
-  tag: v1
+  tag: v2
   pullPolicy: Always
 
 service:
